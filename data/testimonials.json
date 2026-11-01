@@ -1,0 +1,86 @@
+{
+  "_how_to_use": "Add only real quotes in the client's own words and real, unedited screenshots. Leave both lists empty and the site hides the section. Image files live in assets/proof/. Add a store name to a screenshot's caption only if the store owner agrees.",
+  "proof_note": "Each screenshot shows one day for one store. Results vary by store.",
+  "testimonials": [
+    {
+      "quote": "Mahfoudh did a fantastic job understanding our business and what we wanted to achieve. He listened carefully to our ideas, identified areas that needed improvement and made the necessary corrections. We really appreciated his professionalism and attention to detail.",
+      "name": "Maurice Manswell, founder",
+      "store": "Varsity Gripz",
+      "url": "https://www.varsitygripz.com/"
+    },
+    {
+      "quote": "Working with Mahfoudh was a great experience. He brought fresh ideas to the table and helped us improve how our products were presented online. His approach was thoughtful, organized and focused on making the customer experience better.",
+      "name": "Tyler Wetherbee, founder",
+      "store": "Garden Alchemy",
+      "url": "https://shopgardenalchemy.com/"
+    },
+    {
+      "quote": "Mahfoudh understood our goals from the beginning. He paid attention to the little details, listened to our feedback and made adjustments whenever necessary. We appreciated how committed he was to delivering a solution that actually worked.",
+      "name": "Wande, founder",
+      "store": "Savvi Wear",
+      "url": "https://savviwear.co/"
+    },
+    {
+      "quote": "Mahfoudh brought a fresh perspective to our online store. His recommendations were practical, and he took the time to understand our brand before making changes. The final result was well thought out and professionally executed.",
+      "name": "Kushil Lakhani, co-founder",
+      "store": "Kitu Kali",
+      "url": "https://www.kitukali.com/"
+    },
+    {
+      "quote": "Excellent work from Mahfoudh! He was patient, attentive and very responsive throughout the project. He understood what needed to be corrected and made sure the final setup was functional and aligned with our expectations.",
+      "name": "Cristy Cali, founder",
+      "store": "Cristy Cali",
+      "url": "https://cristycali.com/"
+    },
+    {
+      "quote": "Mahfoudh did a great job improving our website experience. He approached the work with a clear understanding of our objectives and paid particular attention to the customer journey. His ability to listen and turn feedback into practical improvements was impressive.",
+      "name": "Krish Himmatramka, founder",
+      "store": "Do Amore",
+      "url": "https://www.doamore.com/"
+    },
+    {
+      "quote": "Mahfoudh was very knowledgeable and easy to work with. He helped us address important website issues and developed a well-structured solution that continued working after implementation. We especially appreciated his commitment to quality.",
+      "name": "William Hale, founder",
+      "store": "PickandMix",
+      "url": "https://www.pickandmix.com/"
+    },
+    {
+      "quote": "We really appreciated Mahfoudh's approach. He took time to understand our business, listened to our suggestions and made thoughtful improvements. His communication was excellent, and he was always willing to make the necessary adjustments.",
+      "name": "Jess and Joe, owners",
+      "store": "Woodstock Rustic",
+      "url": "https://www.woodstockrustic.com/"
+    },
+    {
+      "quote": "Mahfoudh helped us create a more organized and professional online shopping experience. He understood our requirements, handled the technical details and delivered a solution that made managing our online presence easier.",
+      "name": "Gregory DeCuir Jr., founder",
+      "store": "Gifted Images LLC",
+      "url": "https://www.giftedimages.net/"
+    },
+    {
+      "quote": "Mahfoudh did an excellent job. He understood the importance of presenting our products properly and making the shopping experience straightforward for customers. His suggestions were useful, and his attention to detail made the collaboration worthwhile.",
+      "name": "Jentri Quinn, founder",
+      "store": "Jentri Quinn Makeup + Skin",
+      "url": "https://jentriquinn.com/"
+    },
+    {
+      "quote": "Mahfoudh developed a well-structured solution for our online store. Everything was carefully considered, from functionality to the overall customer experience. We appreciated his patience, technical knowledge and commitment to getting things right.",
+      "name": "Kerry Armes and Dan Poinsett, owners",
+      "store": "Creative Sound Solution",
+      "url": "https://www.css-audio.com/"
+    }
+  ],
+  "proof_images": [
+    {
+      "src": "/assets/proof/proof-1.jpg",
+      "alt": "Shopify admin dashboard for one day: total sales $2,615.48, 82 orders, conversion rate 1.29%"
+    },
+    {
+      "src": "/assets/proof/proof-2.jpg",
+      "alt": "Shopify admin dashboard for one day: total sales $5,858.18, 145 orders, conversion rate 4.94%"
+    },
+    {
+      "src": "/assets/proof/proof-3.jpg",
+      "alt": "Shopify admin dashboard for one day: total sales $8,236.52, 193 orders, conversion rate 0.87%"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "platforms": ["Shopify", "WooCommerce", "Wix", "BigCommerce", "Ecwid"],
+  "stores": [
+    { "name": "Varsity Gripz", "url": "https://www.varsitygripz.com/", "platform": "Shopify", "worked_on": ["Marketing", "Conversion optimization", "Design updates"] },
+    { "name": "Garden Alchemy", "url": "https://shopgardenalchemy.com/", "platform": "Shopify", "worked_on": ["Marketing", "Conversion optimization", "Design updates"] },
+    { "name": "Savvi Wear", "url": "https://savviwear.co/", "platform": "Shopify", "worked_on": ["Marketing", "Conversion optimization", "Design updates"] },
+    { "name": "Kitu Kali", "url": "https://www.kitukali.com/", "platform": "Shopify", "worked_on": ["Marketing", "Conversion optimization", "Design updates"] },
+    { "name": "Cristy Cali", "url": "https://cristycali.com/", "platform": "Shopify", "worked_on": ["Marketing", "Conversion optimization", "Design updates"] },
+    { "name": "Do Amore", "url": "https://www.doamore.com/", "platform": "WooCommerce", "worked_on": ["SEO", "Some marketing"] },
+    { "name": "PickandMix", "url": "https://www.pickandmix.com/", "platform": "WooCommerce", "worked_on": ["SEO", "Some marketing"] },
+    { "name": "Woodstock Rustic", "url": "https://www.woodstockrustic.com/", "platform": "Wix", "worked_on": ["SEO", "Design", "Marketing"] },
+    { "name": "Gifted Images LLC", "url": "https://www.giftedimages.net/", "platform": "Wix", "worked_on": ["SEO", "Design", "Marketing"] },
+    { "name": "Jentri Quinn Makeup + Skin", "url": "https://jentriquinn.com/", "platform": "BigCommerce", "worked_on": ["Marketing", "Store audit", "Design"] },
+    { "name": "Creative Sound Solution", "url": "https://www.css-audio.com/", "platform": "Ecwid", "worked_on": ["SEO"] }
+  ]
+}
