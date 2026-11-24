@@ -71,16 +71,22 @@
   ],
   "proof_images": [
     {
-      "src": "/assets/proof/proof-1.jpg",
-      "alt": "Shopify admin dashboard for one day: total sales $2,615.48, 82 orders, conversion rate 1.29%"
+      "src": "assets/proof/proof-1.jpg",
+      "alt": "Shopify admin dashboard for one day: total sales $2,615.48, 82 orders, conversion rate 1.29%",
+      "w": 735,
+      "h": 786
     },
     {
-      "src": "/assets/proof/proof-2.jpg",
-      "alt": "Shopify admin dashboard for one day: total sales $5,858.18, 145 orders, conversion rate 4.94%"
+      "src": "assets/proof/proof-2.jpg",
+      "alt": "Shopify admin dashboard for one day: total sales $5,858.18, 145 orders, conversion rate 4.94%",
+      "w": 735,
+      "h": 621
     },
     {
-      "src": "/assets/proof/proof-3.jpg",
-      "alt": "Shopify admin dashboard for one day: total sales $8,236.52, 193 orders, conversion rate 0.87%"
+      "src": "assets/proof/proof-3.jpg",
+      "alt": "Shopify admin dashboard for one day: total sales $8,236.52, 193 orders, conversion rate 0.87%",
+      "w": 720,
+      "h": 720
     }
   ]
 }

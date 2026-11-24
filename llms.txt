@@ -1,0 +1,7 @@
+# Mahfoudh Musa
+> AI software engineer and growth builder in Abuja, Nigeria. Builds AI products and runs Pinterest, Google Shopping, SEO and Klaviyo marketing for online stores.
+
+- [Work](https://mahfoudhconsult.netlify.app/work.html): products and client stores
+- [Growth and AI](https://mahfoudhconsult.netlify.app/services.html): services
+- [Free audit](https://mahfoudhconsult.netlify.app/audit.html): six-layer site audit
+- [Contact](https://mahfoudhconsult.netlify.app/contact.html)
